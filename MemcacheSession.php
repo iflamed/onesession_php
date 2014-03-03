@@ -1,4 +1,5 @@
 <?php
+namespace 'Onesession';
 if(!interface_exists('SessionHandlerInterface')){
     /**
      * SessionHandlerInterface
