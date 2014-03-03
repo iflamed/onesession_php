@@ -1,0 +1,14 @@
+{
+    "name": "iflamed/onesession",
+    "description": "a session solution for mult language development",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iflamed",
+            "email": "iflamed@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Onesession\\": ""}
+    }
+}
