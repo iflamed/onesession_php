@@ -251,7 +251,7 @@ class MemcacheSessionHandlerCompatible extends MemcacheSessionHandler
 /**
 * 
 */
-class MemcacheSession
+class HttpSession
 {
     
     public static function init($storeClassName,$config,$keyPrefix='')
